@@ -1,0 +1,8 @@
+Subject: URGENT - Your SBI account will be blocked within 24 hours
+
+Dear Customer,
+
+Your KYC has expired and your account will be blocked. Verify your account immediately and share your OTP
+and card number at: http://sbi-kyc-update.top/login  or http://192.168.44.10/sbi
+
+Failure to act now will result in permanent suspension.
